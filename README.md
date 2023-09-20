@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dan@rios.engineer**
 
-### Blogs posts
+### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Bicep modules with PSRule – Testing, documentation, CI Pipeline &amp; examples](https://rios.engineer/bicep-modules-with-psrule-testing-documentation-ci-pipeline-examples/)
 - [Schedule clean up of your sandbox tenant with Azure Automation](https://rios.engineer/schedule-azure-sandbox-cleanup/)
