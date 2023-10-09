@@ -13,7 +13,7 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Bicep Test Framework 🧪](https://rios.engineer/exploring-the-bicep-test-framework-%f0%9f%a7%aa/)
+- [Exploring the awesome Bicep Test Framework 🧪](https://rios.engineer/exploring-the-bicep-test-framework-%f0%9f%a7%aa/)
 - [Consuming Bicep modules – What are my options?](https://rios.engineer/consuming-bicep-modules-what-are-my-options/)
 - [Bicep modules with PSRule – Testing, documentation, CI Pipeline &amp; examples](https://rios.engineer/bicep-modules-with-psrule-testing-documentation-ci-pipeline-examples/)
 - [Schedule clean up of your sandbox tenant with Azure Automation](https://rios.engineer/schedule-azure-sandbox-cleanup/)
