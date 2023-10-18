@@ -13,11 +13,11 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Harness shared variable file patterns with Azure Bicep](https://rios.engineer/harness-shared-variable-file-patterns-with-azure-bicep/)
 - [Exploring the awesome Bicep Test Framework 🧪](https://rios.engineer/exploring-the-bicep-test-framework-%f0%9f%a7%aa/)
 - [Consuming Bicep modules – What are my options?](https://rios.engineer/consuming-bicep-modules-what-are-my-options/)
 - [Bicep modules with PSRule – Testing, documentation, CI Pipeline &amp; examples](https://rios.engineer/bicep-modules-with-psrule-testing-documentation-ci-pipeline-examples/)
 - [Schedule clean up of your sandbox tenant with Azure Automation](https://rios.engineer/schedule-azure-sandbox-cleanup/)
-- [Azure DevOps Pipeline deployments to Azure App Services with Access Restrictions](https://rios.engineer/azure-devops-pipeline-deployments-to-azure-app-services-with-access-restrictions/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
