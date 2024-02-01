@@ -13,11 +13,11 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Continuous deployment to Azure Container Apps with Azure DevOps](https://rios.engineer/continuous-deployment-to-azure-container-apps-with-azure-devops/)
 - [My GitHub Actions Certification experience](https://rios.engineer/my-github-actions-certification-experience/)
 - [🦾 Top 5 Azure Bicep tips &amp; tricks to get started 🚀](https://rios.engineer/top-5-azure-bicep-tips-tricks-to-get-started/)
 - [Seamlessly deploy Azure Front Door Premium with Private Endpoint to App Services](https://rios.engineer/seamlessly-deploy-azure-front-door-premium-with-private-endpoint-to-app-services/)
 - [Shared variable file patterns with Azure Bicep](https://rios.engineer/harness-shared-variable-file-patterns-with-bicep/)
-- [A look into the Azure OpenAI Chat Accelerator](https://rios.engineer/a-look-into-the-azure-openai-chat-accelerator/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
