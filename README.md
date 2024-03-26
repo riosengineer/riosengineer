@@ -13,11 +13,11 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Lean Coffee – Episode 3](https://rios.engineer/azure-lean-coffee-episode-3/)
 - [Azure Spring Clean: Azure best practice for Bicep with PSRule](https://rios.engineer/azure-spring-clean-azure-best-practice-for-bicep-with-psrule/)
 - [Continuous deployment to Azure Container Apps with Azure DevOps](https://rios.engineer/continuous-deployment-to-azure-container-apps-with-azure-devops/)
 - [My GitHub Actions Certification experience](https://rios.engineer/my-github-actions-certification-experience/)
 - [Top 5 Azure Bicep tips &amp; tricks to get started](https://rios.engineer/top-5-azure-bicep-tips-tricks-to-get-started/)
-- [Seamlessly deploy Azure Front Door Premium with Private Endpoint to App Services](https://rios.engineer/seamlessly-deploy-azure-front-door-premium-with-private-endpoint-to-app-services/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
