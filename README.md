@@ -13,11 +13,11 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing workload identity federation conversion failures in Azure DevOps](https://rios.engineer/fixing-workload-identity-federation-conversion-failures-in-azure-devops/)
 - [Azure SQL Managed Instance: Network Intent Policy error fix in Azure Bicep](https://rios.engineer/azure-sql-managed-instance-network-intent-policy-error-fix-in-azure-bicep/)
 - [Azure Lean Coffee – Episode 3](https://rios.engineer/azure-lean-coffee-episode-3/)
 - [Azure Spring Clean: Azure best practice for Bicep with PSRule](https://rios.engineer/azure-spring-clean-azure-best-practice-for-bicep-with-psrule/)
 - [Continuous deployment to Azure Container Apps with Azure DevOps](https://rios.engineer/continuous-deployment-to-azure-container-apps-with-azure-devops/)
-- [My GitHub Actions Certification experience](https://rios.engineer/my-github-actions-certification-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
