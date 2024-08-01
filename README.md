@@ -13,11 +13,11 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps Agent: Azure Container Instance with Private Azure Container Registry](https://rios.engineer/azure-devops-agent-azure-container-instance-with-private-azure-container-registry/)
 - [Compliance with Azure Bastion: Session recording](https://rios.engineer/compliance-with-azure-bastion-session-recording/)
 - [Azure Lighthouse: A comprehensive guide for MSPs](https://rios.engineer/azure-lighthouse-a-comprehensive-guide-for-msps/)
 - [Pester unit tests for Azure Bicep modules](https://rios.engineer/pester-unit-tests-for-azure-bicep-modules/)
 - [Fixing workload identity federation conversion failures in Azure DevOps](https://rios.engineer/fixing-workload-identity-federation-conversion-failures-in-azure-devops/)
-- [Azure SQL Managed Instance: Network Intent Policy error fix in Azure Bicep](https://rios.engineer/azure-sql-managed-instance-network-intent-policy-error-fix-in-azure-bicep/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
