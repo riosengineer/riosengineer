@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">A passionate Azure enthusiast and Azure Bicep champion 👑🦾 </h3>
 
+💪 Join the Azure Bicep users LinkedIn group for the latest news, insights, tips, tricks and more [here.](https://www.linkedin.com/groups/13004126/)
+
 - 🔭 I’m currently working on **Bicepify - simplify getting started with Azure Bicep through easy to digest examples**
 
 - 🌱 I’m currently learning **about all things Azure!**
