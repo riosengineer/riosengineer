@@ -17,11 +17,11 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing API to API calls in Azure with Entra and API Management](https://rios.engineer/securing-api-to-api-calls-in-azure-with-entra-and-api-management/)
 - [Automate .NET Dependency Management in Azure DevOps with GitHub’s Dependabot](https://rios.engineer/automate-net-dependency-management-in-azure-devops-with-githubs-dependabot/)
 - [Get Azure cost estimates in Azure DevOps PR comments with Bicep](https://rios.engineer/get-azure-cost-estimates-in-azure-devops-pr-comments-with-bicep/)
 - [APIOps – A deep dive for APIM multi-environments](https://rios.engineer/apiops-a-deep-dive-for-apim-multi-environments/)
 - [Never miss an update: Azure Verified Modules with GitHub Bot &amp; Teams](https://rios.engineer/never-miss-an-update-azure-verified-modules-with-github-bot-teams/)
-- [Getting started: Continuous deployment with Azure Bicep and Azure DevOps](https://rios.engineer/getting-started-continuous-deployment-with-azure-bicep-and-azure-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
