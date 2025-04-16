@@ -17,11 +17,11 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Deployment Stacks: Zero to Hero 🦾❤️](https://rios.engineer/azure-deployment-stacks-zero-to-hero-%f0%9f%a6%be%e2%9d%a4%ef%b8%8f/)
 - [Azure Policy: Deny Log Analytics Workspaces creation without Daily Quota](https://rios.engineer/azure-policy-deny-log-analytics-workspaces-creation-without-daily-quota/)
 - [Securing API to API calls in Azure with Entra and API Management](https://rios.engineer/securing-api-to-api-calls-in-azure-with-entra-and-api-management/)
 - [Automate .NET Dependency Management in Azure DevOps with GitHub’s Dependabot](https://rios.engineer/automate-net-dependency-management-in-azure-devops-with-githubs-dependabot/)
 - [Get Azure cost estimates in Azure DevOps PR comments with Bicep](https://rios.engineer/get-azure-cost-estimates-in-azure-devops-pr-comments-with-bicep/)
-- [APIOps – A deep dive for APIM multi-environments](https://rios.engineer/apiops-a-deep-dive-for-apim-multi-environments/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
