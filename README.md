@@ -17,11 +17,11 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to split an email address string in Azure Logic Apps](https://rios.engineer/how-to-split-a-domain-from-email-address-in-powerautomate/)
 - [Create Azure Monitor Baseline Alerts initiative with Enterprise Policy as Code](https://rios.engineer/create-azure-monitor-baseline-alerts-initiative-with-epac/)
 - [Azure Deployment Stacks: Zero to Hero 🦾❤️](https://rios.engineer/azure-deployment-stacks-zero-to-hero-%f0%9f%a6%be%e2%9d%a4%ef%b8%8f/)
 - [Azure Policy: Deny Log Analytics Workspaces creation without Daily Quota](https://rios.engineer/azure-policy-deny-log-analytics-workspaces-creation-without-daily-quota/)
 - [Securing API to API calls in Azure with Entra and API Management](https://rios.engineer/securing-api-to-api-calls-in-azure-with-entra-and-api-management/)
-- [Automate .NET Dependency Management in Azure DevOps with GitHub’s Dependabot](https://rios.engineer/automate-net-dependency-management-in-azure-devops-with-githubs-dependabot/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
