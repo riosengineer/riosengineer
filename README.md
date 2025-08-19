@@ -17,11 +17,11 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Companies House with Azure AI Agent in Foundry Using OpenAPI](https://rios.engineer/integrating-companies-house-with-azure-ai-agent-in-foundry-using-openapi/)
 - [Spectral: The API Linting Tool You Need in Your Workflow 🔎](https://rios.engineer/spectral-the-api-linting-tool-you-need-in-your-workflow-%f0%9f%94%8e/)
 - [How to split an email address string in Azure Logic Apps](https://rios.engineer/how-to-split-a-domain-from-email-address-in-powerautomate/)
 - [Create Azure Monitor Baseline Alerts initiative with Enterprise Policy as Code](https://rios.engineer/create-azure-monitor-baseline-alerts-initiative-with-epac/)
 - [Azure Deployment Stacks: Zero to Hero 🦾❤️](https://rios.engineer/azure-deployment-stacks-zero-to-hero-%f0%9f%a6%be%e2%9d%a4%ef%b8%8f/)
-- [Azure Policy: Deny Log Analytics Workspaces creation without Daily Quota](https://rios.engineer/azure-policy-deny-log-analytics-workspaces-creation-without-daily-quota/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
