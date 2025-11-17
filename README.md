@@ -17,7 +17,7 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Ephemeral Environments: Testing Azure Bicep from Scratch on Every Pull Request in GitHub](https://rios.engineer/ephemeral-environments-testing-azure-bicep-from-scratch-on-every-pull-request/)
+- [Automating Azure Bicep Testing with Ephemeral Environments in GitHub Actions](https://rios.engineer/automating-azure-bicep-testing-with-ephemeral-environments-in-github-actions/)
 - [My favourite 5 Bicep resources](https://rios.engineer/my-favourite-5-bicep-resources/)
 - [Using Shared Variable File Pattern to simplify Azure Roles In Bicep](https://rios.engineer/using-shared-variable-file-pattern-to-simplify-azure-roles-in-bicep/)
 - [Integrating Companies House with Azure AI Agent in Foundry Using OpenAPI](https://rios.engineer/integrating-companies-house-with-azure-ai-agent-in-foundry-using-openapi/)
