@@ -18,7 +18,7 @@
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Open WebUI On Azure: Part 2 – API Management ❤️ AI](https://rios.engineer/open-webui-on-azure-part-2-api-management-ai/)
-- [Open WebUI on Azure: Part 1 – Architecture &amp; Deployment](https://rios.engineer/open-webui-on-azure-part-1-architecture-deployment/)
+- [Open WebUI On Azure: Part 1 – Architecture &amp; Deployment](https://rios.engineer/open-webui-on-azure-part-1-architecture-deployment/)
 - [Rate limiting Entra External ID Email OTP Events with APIM](https://rios.engineer/rate-limiting-entra-external-id-email-otp-events-with-apim/)
 - [Automating Azure Bicep Testing with Ephemeral Environments in GitHub Actions](https://rios.engineer/automating-azure-bicep-testing-with-ephemeral-environments-in-github-actions/)
 - [My favourite 5 Bicep resources](https://rios.engineer/my-favourite-5-bicep-resources/)
