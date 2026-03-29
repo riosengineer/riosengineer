@@ -6,19 +6,13 @@
 
 A pragmatic cloud engineer focused on making Azure infrastructure approachable. I build small, shareable examples and tools to help teams adopt Infrastructure-as-Code with Azure Bicep.
 
-- 🔭 Currently: **Bicepify** — simplifying getting started with Azure Bicep through short, practical examples.
-- 🌱 Learning: automation patterns, GitOps and developer experience for infra teams.
-- 📝 I write at: https://rios.engineer
-- 💬 Topics: Azure, Azure Bicep, API Management
-- 📫 Reach: <a href="mailto:dan@rios.engineer">dan@rios.engineer</a>
+I write at: https://rios.engineer
+
+📫 Reach: <a href="mailto:dan@rios.engineer">dan@rios.engineer</a>
 
 ---
 
-### Featured projects
-
-- **Bicepify** — curated Bicep examples and starter templates to help teams get productive quickly.
-
----
+### Latest blog posts
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
