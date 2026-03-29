@@ -10,9 +10,15 @@ I write at: https://rios.engineer
 
 📫 Reach: <a href="mailto:dan@rios.engineer">dan@rios.engineer</a>
 
----
+💪 Join the Azure Bicep users LinkedIn group for the latest news, insights, tips, tricks and more [here.](https://www.linkedin.com/groups/13004126/)
 
-### Latest blog posts
+- 🔭 I’m currently working on **Bicepify - simplify getting started with Azure Bicep through easy to digest examples**
+- 🌱 I’m currently learning **about all things Azure!**
+- 📝 I regularly write articles on [https://rios.engineer](https://rios.engineer)
+- 💬 Ask me about **Azure & Azure Bicep**
+- 📫 How to reach me **dan@rios.engineer**
+
+---
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,7 +38,7 @@ I write at: https://rios.engineer
 
 ### Languages and Tools
 <p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Microsoft_Azure_logo.svg" alt="azure" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
   <a href="https://github.com/Azure/bicep" target="_blank" rel="noreferrer"><img src="https://github.com/Azure/bicep/blob/main/docs/images/BicepLogoImage.png?raw=true" alt="bicep" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/></a>
 </p>
