@@ -1,21 +1,26 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">A passionate Azure enthusiast and Azure Bicep champion 👑🦾 </h3>
 
-<p align="center"><a href="https://mvp.microsoft.com/en-US/MVP/profile/9674cfb6-87f8-49b8-a16a-9d7e503294ae"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_MVP_banner.png" width="220" height="90"></a></p>
+<h3 align="center">A pragmatic Azure engineer — Azure Bicep champion 👑🦾</h3>
 
-💪 Join the Azure Bicep users LinkedIn group for the latest news, insights, tips, tricks and more [here.](https://www.linkedin.com/groups/13004126/)
+<p align="center"><a href="https://mvp.microsoft.com/en-US/MVP/profile/9674cfb6-87f8-49b8-a16a-9d7e503294ae"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_MVP_banner.png" width="220" height="90" alt="MVP badge"></a></p>
 
-- 🔭 I’m currently working on **Bicepify - simplify getting started with Azure Bicep through easy to digest examples**
+A pragmatic cloud engineer focused on making Azure infrastructure approachable. I build small, shareable examples and tools to help teams adopt Infrastructure-as-Code with Azure Bicep.
 
-- 🌱 I’m currently learning **about all things Azure!**
+- 🔭 Currently: **Bicepify** — simplifying getting started with Azure Bicep through short, practical examples.
+- 🌱 Learning: automation patterns, GitOps and developer experience for infra teams.
+- 📝 I write at: https://rios.engineer
+- 💬 Topics: Azure, Azure Bicep, API Management
+- 📫 Reach: <a href="mailto:dan@rios.engineer">dan@rios.engineer</a>
 
-- 📝 I regularly write articles on [https://rios.engineer](https://rios.engineer)
+---
 
-- 💬 Ask me about **Azure & Azure Bicep**
+### Featured projects
 
-- 📫 How to reach me **dan@rios.engineer**
+- **Bicepify** — curated Bicep examples and starter templates to help teams get productive quickly.
 
-### Latest blogs posts
+---
+
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Micro deployment pattern with Azure Deployment Stacks](https://rios.engineer/micro-deployment-pattern-with-azure-deployment-stacks/)
 - [Open WebUI On Azure: Part 2 – API Management ❤️ AI](https://rios.engineer/open-webui-on-azure-part-2-api-management-ai/)
@@ -24,10 +29,20 @@
 - [Automating Azure Bicep Testing with Ephemeral Environments in GitHub Actions](https://rios.engineer/automating-azure-bicep-testing-with-ephemeral-environments-in-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/riosengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riosengineer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/riosengineer" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-gb/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <a href="https://github.com/Azure/bicep" target="_blank" rel="noreferrer"> <img src="https://github.com/Azure/bicep/blob/main/docs/images/BicepLogoImage.png?raw=true" alt="azure" width="40" height="40"</a></p>
+### Languages and Tools
+<p align="left">
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+  <a href="https://github.com/Azure/bicep" target="_blank" rel="noreferrer"><img src="https://github.com/Azure/bicep/blob/main/docs/images/BicepLogoImage.png?raw=true" alt="bicep" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/></a>
+</p>
+
+---
+
+_This is a draft committed on the feature branch; the live main branch remains unchanged until the draft is approved and merged._
