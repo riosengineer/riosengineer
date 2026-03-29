@@ -1,22 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 
-<h3 align="center">A pragmatic Azure engineer — Azure Bicep champion 👑🦾</h3>
-
 <p align="center"><a href="https://mvp.microsoft.com/en-US/MVP/profile/9674cfb6-87f8-49b8-a16a-9d7e503294ae"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_MVP_banner.png" width="220" height="90" alt="MVP badge"></a></p>
-
-A pragmatic cloud engineer focused on making Azure infrastructure approachable. I build small, shareable examples and tools to help teams adopt Infrastructure-as-Code with Azure Bicep.
-
-I write at: https://rios.engineer
-
-📫 Reach: <a href="mailto:dan@rios.engineer">dan@rios.engineer</a>
-
-💪 Join the Azure Bicep users LinkedIn group for the latest news, insights, tips, tricks and more [here.](https://www.linkedin.com/groups/13004126/)
-
-- 🔭 I’m currently working on **Bicepify - simplify getting started with Azure Bicep through easy to digest examples**
-- 🌱 I’m currently learning **about all things Azure!**
-- 📝 I regularly write articles on [https://rios.engineer](https://rios.engineer)
-- 💬 Ask me about **Azure & Azure Bicep**
-- 📫 How to reach me **dan@rios.engineer**
 
 ---
 
