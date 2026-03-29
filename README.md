@@ -32,7 +32,7 @@ I write at: https://rios.engineer
 
 ### Languages and Tools
 <p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Microsoft_Azure_logo.svg" alt="azure" width="40" height="40"/></a>
   <a href="https://github.com/Azure/bicep" target="_blank" rel="noreferrer"><img src="https://github.com/Azure/bicep/blob/main/docs/images/BicepLogoImage.png?raw=true" alt="bicep" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/></a>
 </p>
