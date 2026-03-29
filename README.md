@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riosengineer&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+</p>
+
 <h3 align="center">A passionate Azure enthusiast and Azure Bicep champion 👑🦾</h3>
 
 <p align="center"><a href="https://mvp.microsoft.com/en-US/MVP/profile/9674cfb6-87f8-49b8-a16a-9d7e503294ae"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_MVP_banner.png" width="220" height="90" alt="MVP badge"></a></p>
