@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riosengineer&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://ghchart.rshah.org/riosengineer" alt="Contribution chart" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/riosengineer?label=Followers&style=flat&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/repo-size/riosengineer/riosengineer?style=flat" alt="Repo size" />
 </p>
 
 <h3 align="center">A passionate Azure enthusiast and Azure Bicep champion 👑🦾</h3>
