@@ -1,29 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/riosengineer" alt="Contribution chart" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/riosengineer?label=Followers&style=flat&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/repo-size/riosengineer/riosengineer?style=flat" alt="Repo size" />
-</p>
-
-<h3 align="center">A passionate Azure enthusiast and Azure Bicep champion 👑🦾</h3>
+<h3 align="center">A passionate cloud enthusiast and Infrastructure as Code champion 👑🦾</h3>
 
 <p align="center"><a href="https://mvp.microsoft.com/en-US/MVP/profile/9674cfb6-87f8-49b8-a16a-9d7e503294ae"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_MVP_banner.png" width="220" height="90" alt="MVP badge"></a></p>
 
-A passionate Azure enthusiast and Azure Bicep champion 👑🦾
-
 💪 Join the Azure Bicep users LinkedIn group for the latest news, insights, tips, tricks and more [here.](https://www.linkedin.com/groups/13004126/)
 
-- 🔭 I’m currently working on Bicepify - simplify getting started with Azure Bicep through easy to digest examples
-- 🌱 I’m currently learning about all things Azure!
 - 📝 I regularly write articles on https://rios.engineer
 - 💬 Ask me about Azure & Azure Bicep
 - 📫 How to reach me dan@rios.engineer
 
----
 ---
 
 ### Latest blog posts
@@ -50,5 +36,3 @@ A passionate Azure enthusiast and Azure Bicep champion 👑🦾
 </p>
 
 ---
-
-_This is a draft committed on the feature branch; the live main branch remains unchanged until the draft is approved and merged._
