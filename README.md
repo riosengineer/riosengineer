@@ -14,11 +14,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying role assignments in Bicep with roleDefinitions&lpar;&rpar;](https://rios.engineer/simplifying-role-assignments-in-bicep-with-roledefinitions/)
 - [Micro deployment pattern with Azure Deployment Stacks](https://rios.engineer/micro-deployment-pattern-with-azure-deployment-stacks/)
 - [Open WebUI On Azure: Part 2 – API Management ❤️ AI](https://rios.engineer/open-webui-on-azure-part-2-api-management-ai/)
 - [Open WebUI On Azure: Part 1 – Architecture &amp; Deployment](https://rios.engineer/open-webui-on-azure-part-1-architecture-deployment/)
 - [Rate limiting Entra External ID Email OTP Events with APIM](https://rios.engineer/rate-limiting-entra-external-id-email-otp-events-with-apim/)
-- [Automating Azure Bicep Testing with Ephemeral Environments in GitHub Actions](https://rios.engineer/automating-azure-bicep-testing-with-ephemeral-environments-in-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
