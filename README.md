@@ -14,11 +14,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A real look at BYON Microsoft Foundry](https://rios.engineer/a-real-look-at-byon-microsoft-foundry/)
 - [Project Radius](https://rios.engineer/project-radius/)
 - [Simplifying role assignments in Bicep with roleDefinitions&lpar;&rpar;](https://rios.engineer/simplifying-role-assignments-in-bicep-with-roledefinitions/)
 - [Micro deployment pattern with Azure Deployment Stacks](https://rios.engineer/micro-deployment-pattern-with-azure-deployment-stacks/)
 - [Open WebUI On Azure: Part 2 – API Management ❤️ AI](https://rios.engineer/open-webui-on-azure-part-2-api-management-ai/)
-- [Open WebUI On Azure: Part 1 – Architecture &amp; Deployment](https://rios.engineer/open-webui-on-azure-part-1-architecture-deployment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
