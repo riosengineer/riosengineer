@@ -14,11 +14,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A closer look at Microsoft Foundry AI Gateway](https://rios.engineer/a-closer-look-at-microsoft-foundry-ai-gateway/)
 - [Measuring MCP Tool Schema Overhead with Azure API Management](https://rios.engineer/measuring-mcp-tool-schema-overhead-with-azure-api-management/)
 - [Azure API Center: Govern APIs with Spectral linting](https://rios.engineer/azure-api-center-govern-apis-with-spectral-linting/)
 - [Azure API Center: Link APIM for automatic API inventory sync](https://rios.engineer/azure-api-center-link-apim-for-automatic-api-inventory-sync/)
 - [A real look at BYON Microsoft Foundry](https://rios.engineer/a-real-look-at-byon-microsoft-foundry/)
-- [Project Radius](https://rios.engineer/project-radius/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
